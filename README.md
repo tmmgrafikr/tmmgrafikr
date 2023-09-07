@@ -23,19 +23,19 @@
 
 ## 🎉 Github Stats
 <div align="left">
-  <picture>
+  <picture height="160em">
     <source
-      srcset="https://github-readme-stats-tmmgrafikr.vercel.app/api?username=tmmgrafikr&show_icons=true&include_all_commits=true&show=[prs_merged]&custom_title=Stats&theme=nord&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      srcset="https://github-readme-stats-tmmgrafikr.vercel.app/api?username=tmmgrafikr&show_icons=true&include_all_commits=true&show=[prs_merged]&custom_title=Stats&theme=nord&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-tmmgrafikr.vercel.app/api?username=tmmgrafikr&show_icons=true&include_all_commits=true&show=[prs_merged]&custom_title=Stats&theme=swift&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      srcset="https://github-readme-stats-tmmgrafikr.vercel.app/api?username=tmmgrafikr&show_icons=true&include_all_commits=true&show=[prs_merged]&custom_title=Stats&theme=swift&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-tmmgrafikr.vercel.app/api?username=tmmgrafikr&custom_title=Stats&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+    <img height="160em" src="https://github-readme-stats-tmmgrafikr.vercel.app/api?username=tmmgrafikr&custom_title=Stats&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true" />
   </picture>
 
-  ![Top Langs](https://github-readme-stats-tmmgrafikr.vercel.app/api/top-langs/?username=tmmgrafikr&layout=compact&theme=nord&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+  <img height="90em" src="https://github-readme-stats-tmmgrafikr.vercel.app/api/top-langs/?username=tmmgrafikr&layout=compact&theme=nord&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true" />
 </div>
 
 <!--
