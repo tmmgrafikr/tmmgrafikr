@@ -26,7 +26,7 @@
 </details>
 
 <details open>
-  <summary>Work stack</summary>
+  <summary>Tools stack</summary>
 
   ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Warp-01a4ff?style=for-the-badge&logo=warp&logoColor=white)
