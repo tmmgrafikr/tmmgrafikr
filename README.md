@@ -1,16 +1,3 @@
-## 📬 Contact
-<a href="https://www.linkedin.com/in/tobias-mønster-madsen" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/madsenmm" target="_blank">
-  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmadsenmm&style=for-the-badge&logo=X&logoColor=white&label=(formerly%20Twitter)&labelColor=black&color=black" />
-
-  <!--<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />-->
-</a>
-
-<hr />
-
 <details open>
   <summary>⚔ Stack</summary>
 
